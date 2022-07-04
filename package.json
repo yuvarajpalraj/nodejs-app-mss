@@ -22,11 +22,11 @@
     "sonarqube-scanner": "^2.7.0"
   },
   "engines": {
-    "node": "v10.6.0"
+    "node": "v10.24.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/yuvarajpalraj/nodejs-app-mss/tree/develop"
   },
   "keywords": [
     "node",
